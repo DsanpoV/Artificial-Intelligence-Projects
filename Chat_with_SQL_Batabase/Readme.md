@@ -30,7 +30,11 @@ O notebook incluído neste repositório contém:
    os.environ['OPENAI_API_KEY'] = ""
    Configuração da ligação ao MS SQL Server via pyodbc.
 3.Construção do template utilizado para gerar instruções SQL.
+
 4.Implementação da cadeia de geração de SQL através de LangChain.
+
 5.Função de execução de SQL.
+
 6.Composição do pipeline completo (pergunta → SQL → execução → resposta).
+
 7.Exemplo de utilização.
