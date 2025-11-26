@@ -1,4 +1,4 @@
-# Chat with Database (LangChain + MS SQL Server)
+# Chat with Database (LangChain + MS SQL Server) Baseado no video https://www.youtube.com/watch?v=9ccl1_Wu24Q&t=2098s
 
 ## 1. Introdução
 Este repositório apresenta um sistema de interação em linguagem natural com uma base de dados Microsoft SQL Server, utilizando LangChain e modelos da OpenAI. O sistema converte perguntas formuladas em linguagem natural em instruções SQL válidas, executa essas instruções na base de dados e devolve uma resposta sintetizada.
